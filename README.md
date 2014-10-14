@@ -1,5 +1,6 @@
 RPN_Calculator
 ==============
+A multi function calculator, which takes an expression with parentheses and exponents as a string, converts it to reverse polish notation to get rid of parentheses and properly order operations, and returns the result.
 
 To run the file, either use the code from the src/calculator in an ide, or download the executable jar file and run from command 
 prompt using:
